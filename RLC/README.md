@@ -5,9 +5,16 @@ This Repository contains Mathcad 8 worksheets having to do with Resistors, Induc
 Description:
 * ESeries_RLC.mcd - Derivation of preferred RLC standard values
 
-# H1
-## H2
-### H3
 
+> blockquote
 
+1. First item
+2. Second item
+3. Third item
 
+- First item
+- Second item
+- Third item
+
+term
+: definition
