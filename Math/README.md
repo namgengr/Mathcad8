@@ -1,8 +1,8 @@
 # Mathcad8 - Math
 
-This Repository contains Mathcad8 worksheets with a mathmatics focus
+This Repository contains Mathcad 8 worksheets with a mathmatics focus
 
 Description:
-* file description
+* SegmentAreaOfCircleOfRadiusR.mcd - computes the segment area of a circle of radius r
 
 
